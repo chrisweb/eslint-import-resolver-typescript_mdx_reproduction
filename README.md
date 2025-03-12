@@ -1,3 +1,6 @@
+> [!TIP]  
+> this [bug is fixed](https://github.com/import-js/eslint-import-resolver-typescript/issues/363#issuecomment-2715011354) in eslint-import-resolver-typescript [3.8.5](https://github.com/import-js/eslint-import-resolver-typescript/releases/tag/v3.8.5)  
+
 # eslint-import-resolver-typescript bug reproduction
 
 when eslint-import-resolver-typescript > 3.7.0 linting fails
